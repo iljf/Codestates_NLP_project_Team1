@@ -30,4 +30,12 @@ TEAM 1 member : 장원서, 이기하, 정다운
 7. Evalation Metirc
    - Pearson'r , f1 socre
 
-for detail information, please check report.pdf
+**For more detail information, please check report.pdf
+
+## Dev set core
+
+## FastAPI
+### Model used
+   - KLUE-RoBERTa-base
+
+### Preview
