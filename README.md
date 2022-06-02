@@ -33,7 +33,7 @@ TEAM 1 member : 장원서, 이기하, 정다운
 **For more detail information, please check report.pdf
 
 ## Dev set core
-
+Pearson's : 92.36, f1 score : 86.01
 ## FastAPI
 ### Model used
    - KLUE-RoBERTa-base
