@@ -39,3 +39,4 @@ Pearson's : 92.36, f1 score : 86.01
    - KLUE-RoBERTa-base
 
 ### Preview
+![API](https://user-images.githubusercontent.com/94291960/171777506-7cf2aade-2c1a-4568-a80d-7d8b8995e3d2.gif)
