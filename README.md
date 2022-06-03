@@ -30,11 +30,11 @@ TEAM 1 member : 장원서, 이기하, 정다운
 7. Evalation Metirc
    - Pearson'r , f1 socre
 
-**For more detail information, please check report.pdf
+**For more detail information, please check report.pdf**
 
 ## Dev set score
 Pearson's : 92.36, f1 score : 86.01
-## FastAPI
+## Flask
 ### Model used
    - KLUE-RoBERTa-base
 
