@@ -1,5 +1,5 @@
 # Codestates Project2 _ TEAM 1
-TEAM 1 member : 장원서, 이기하, 정다운
+TEAM 1 member : AI_09_장원서, AI_09_이기하, AI_09_정다운
 
 # Semantic Textual Similarity (STS)
 ## Project Target
